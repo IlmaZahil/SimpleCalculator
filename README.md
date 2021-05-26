@@ -1,4 +1,7 @@
 # SimpleCalculator 
+
+<span class="iconify" data-icon="bi:calculator" data-inline="false"></span>
+<script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
  
 This calculator made by Python
 
