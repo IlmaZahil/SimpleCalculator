@@ -1,7 +1,6 @@
 # SimpleCalculator 
 
- 
- 
+  
 ⭕ This calculator made by Python<br/>
 
 
